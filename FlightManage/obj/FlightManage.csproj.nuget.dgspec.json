@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS VivoBook\\source\\repos\\FlightManage\\FlightManage\\FlightManage.csproj": {}
+    "C:\\Users\\ASUS VivoBook\\Desktop\\FlightManage\\FlightManage\\FlightManage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS VivoBook\\source\\repos\\FlightManage\\FlightManage\\FlightManage.csproj": {
+    "C:\\Users\\ASUS VivoBook\\Desktop\\FlightManage\\FlightManage\\FlightManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS VivoBook\\source\\repos\\FlightManage\\FlightManage\\FlightManage.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS VivoBook\\Desktop\\FlightManage\\FlightManage\\FlightManage.csproj",
         "projectName": "FlightManage",
-        "projectPath": "C:\\Users\\ASUS VivoBook\\source\\repos\\FlightManage\\FlightManage\\FlightManage.csproj",
+        "projectPath": "C:\\Users\\ASUS VivoBook\\Desktop\\FlightManage\\FlightManage\\FlightManage.csproj",
         "packagesPath": "C:\\Users\\ASUS VivoBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS VivoBook\\source\\repos\\FlightManage\\FlightManage\\obj\\",
+        "outputPath": "C:\\Users\\ASUS VivoBook\\Desktop\\FlightManage\\FlightManage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,6 +58,10 @@
               "version": "[3.1.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
             }
