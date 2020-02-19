@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FlightManage.Entity
+namespace FlightManage.Models.User
 {
-    public class User
-    { 
-        public int Id { get; set; }
+    public class UserViewModel
+    {
         public string Username { get; set; }
 
         public string Password { get; set; }
